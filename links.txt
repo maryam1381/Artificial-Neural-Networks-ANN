@@ -1,0 +1,9 @@
+https://realpython.com/np-linspace-numpy/
+https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html
+https://stackoverflow.com/questions/46028914/multilayer-perceptron-convergencewarning-stochastic-optimizer-maximum-iterat
+https://matplotlib.org/stable/tutorials/text/text_intro.html
+https://vitalflux.com/sklearn-neural-network-regression-example-mlpregressor/
+https://www.google.com/search?q=random+range+float+python&sxsrf=APwXEddNF8Nj-ZB0HkWDNvl2SpuDY6PEkA%3A1681460213229&ei=9Qs5ZMC8DZiP9u8P2aKC4A8&oq=random+range&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgBMggIABCKBRCRAjIICAAQigUQkQIyCAgAEIoFEJECMgUIABCABDIFCAAQgAQyCggAEIAEEBQQhwIyCAgAEIoFEJECMgUIABCABDIFCAAQgAQyBQgAEIAEOgoIABBHENYEELADOgQIIxAnOgYIABAWEB46CAgAEBYQHhAPOggIABCKBRCGAzoHCCMQ6gIQJzoHCAAQigUQQzoICAAQgAQQywFKBAhBGABQ1BJY2IQBYMu5AWgDcAB4BIAB_gKIAYgokgEFMi04LjmYAQCgAQGwAQrIAQjAAQE&sclient=gws-wiz-serp
+https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory
+https://machinelearningmastery.com/classification-versus-regression-in-machine-learning/#:~:text=There%20is%20an%20important%20difference,is%20about%20predicting%20a%20quantity.
+https://www.kaggle.com/chanduanilkumar/adding-and-removing-image-noise-in-python
